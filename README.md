@@ -20,6 +20,7 @@
 ![](https://i.imgur.com/cjEXYEP.png)
 ![](https://i.imgur.com/VLGwoX8.png)
 點選檔案後會彈出下載窗詢問client是否要下載
+
     ![](https://i.imgur.com/o78yynZ.png)
 
 * 成果圖中我將ip對應到domain名稱b10615038，而沒有直接輸入ip，輸入ip也沒有問題
